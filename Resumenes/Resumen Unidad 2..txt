@@ -1,0 +1,3 @@
+Resumen Unidad 2.
+
+Este para mi fue la unidad mas importante, ya que aprendimos sobre los conceptos mas basicos y necesarios en el ambito de la programacion. En relacion a la dificultad, creo que para todos los que somos nuevos se nos fue dificil ya que es mucha logica la que se aplica, pero se que con la practica se puede mejorar y llegaremos a ser mejores desarrolladores.

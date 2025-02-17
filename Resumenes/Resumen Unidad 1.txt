@@ -1,0 +1,4 @@
+Resumen Unidad 1
+
+Esta unidad fue una de las mas importantes, ya que nos enseño sobrer el código Binario y como es que se comunican las maquinas y la tecnologia en general. Aprendimos sobre algoritmos y el paso a paso sobre un programa y que tan detallados podemos llegar y temenos que ser. Al final logramos entender sobre proposiciones logicas y como es que las Podemos Aplicar al Desarrollo de software.
+
